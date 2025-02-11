@@ -1,0 +1,5 @@
+# Activity Monitor
+
+To get the authorization code, use this URL: 
+`https://www.strava.com/oauth/authorize?client_id=55341&redirect_uri=http://localhost&response_type=code&approval_prompt=auto&scope=activity:read`
+
